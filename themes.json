@@ -3328,10 +3328,6 @@
         "value": "Regular",
         "type": "fontWeights"
       },
-      "semibold": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      },
       "bold": {
         "value": "Bold",
         "type": "fontWeights"
@@ -10381,7 +10377,6 @@
         "font-size.200-": "198218c9e4118d6d4df9df0cb7da9ec7a42533e1",
         "font-weight.light": "3d0065cb900ba308323876b225907698f3d79c22",
         "font-weight.regular": "72f711fad79146e57b6e9969e41197e228c44583",
-        "font-weight.semibold": "2ed29c7b61f8d2b0680602ff350e4ec13325ecfb",
         "font-weight.bold": "dafffdd220ec12e55205f2a90e767a7a6167bf45",
         "font-weight.black": "b9068295661330dbd1b47a57290d6f77b2aa8f34",
         "line-height.100": "0fb946a2227af1bddea5e753d5be1efe1241efe7",
