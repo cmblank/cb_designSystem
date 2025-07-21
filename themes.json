@@ -3219,11 +3219,11 @@
     },
     "font-family": {
       "body": {
-        "value": "Source Sans Pro",
+        "value": "Inter",
         "type": "fontFamilies"
       },
       "heading": {
-        "value": "Source Sans Pro",
+        "value": "Inter",
         "type": "fontFamilies"
       }
     },
@@ -3535,18 +3535,6 @@
           "type": "innerShadow"
         },
         "type": "boxShadow"
-      }
-    },
-    "tag": {
-      "news-category": {
-        "value": {
-          "fontFamily": "Overpass Mono",
-          "fontWeight": "SemiBold",
-          "fontSize": "{font-size.85}",
-          "lineHeight": "{line-height.125}",
-          "paragraphSpacing": "{paragraph.85}"
-        },
-        "type": "typography"
       }
     },
     "opacity": {
